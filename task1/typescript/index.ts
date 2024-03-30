@@ -3,6 +3,7 @@ import {
   S3Client,
   GetObjectCommand,
   ListObjectsCommand,
+  _Object,
 } from "@aws-sdk/client-s3";
 import Papa from "papaparse";
 import * as fs from "fs";
@@ -20,19 +21,6 @@ interface Files {
   name: string;
   content: string;
 }
-
-interface FileData {
-  Key: string;
-  LastModified: Date;
-  ETag: string;
-  Size: number;
-  StorageClass: string;
-  Owner: {
-    DisplayName: string;
-    ID: string;
-  };
-}
-
 interface DataRow {
   Timestamp: string;
   LogLevel: string;
@@ -42,7 +30,7 @@ interface DataRow {
 }
 
 // Extracts file names from the list objects command's response.
-function extract_file_keys(bucket_contents: any[] | undefined): string[] {
+function extract_file_keys(bucket_contents: _Object[] | undefined): string[] {
   if (typeof bucket_contents === "undefined") {
     throw new Error(
       "Error Retrieving Bucket Contents: Bucket contents are undefined"
@@ -51,13 +39,17 @@ function extract_file_keys(bucket_contents: any[] | undefined): string[] {
   let result: string[] = [];
 
   bucket_contents.forEach((element) => {
-    result.push(element.Key);
+    const key = element.Key;
+    if (typeof key === "undefined") {
+      throw new Error("Error Extracting File Keys: Key is undefined");
+    }
+    result.push(key);
   });
 
   return result;
 }
 
-// Reads the content of each file from the S3 bucket and returns an array of file names and their contents.
+// Reads the content of each file from the S3 bucket and returns a promise of an array of file names and their contents.
 async function read_data(
   s3Client: S3Client,
   files_keys: string[]
@@ -118,7 +110,6 @@ function extract_info(
       "utf8"
     );
   } else {
-    console.log("hi");
     const extractedFields = parsedData.data.map((row) => {
       let result = isId ? { MessageID: row.MessageID } : {};
       for (const field of fields) {
@@ -142,7 +133,7 @@ function extract_info(
 // Main function to execute the workflow.
 async function main() {
   try {
-    const s3Client = new S3Client({});
+    const s3Client = new S3Client({}); // Initialize the S3 client.
 
     // Retrieve a list of all objects in the specified S3 bucket.
     const { Contents } = await s3Client.send(
@@ -151,15 +142,13 @@ async function main() {
       })
     );
 
-    console.log(Contents);
+    const files_keys = extract_file_keys(Contents); // Extract file names from the bucket contents.
+    const files_data = await read_data(s3Client, files_keys); // Read the content of each file.
 
-    //   const files_keys = extract_file_keys(Contents);
-    //   const files_data = await read_data(s3Client, files_keys);
-
-    //   // Process each file to extract information and append to "Results.txt".
-    //   for (const file of files_data) {
-    //     extract_info(file, fields_needed);
-    //   }
+    // Process each file to extract information and append to "Results.txt".
+    for (const file of files_data) {
+      extract_info(file, fields_needed);
+    }
   } catch (error) {
     console.error("Error: ", error);
   }
