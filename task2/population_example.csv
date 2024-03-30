@@ -1,0 +1,242 @@
+﻿Number Rank,Location,Population,% of World Population,Date
+–,World,"8,097,611,000",100%,29-Mar-24
+1/2[b],China,"1,409,670,000",17.40%,31-Dec-23
+1/2[b],India,"1,392,329,000",17.20%,01-Jul-23
+3,United States,"335,893,238",4.10%,01-Jan-24
+4,Indonesia,"279,118,866",3.40%,01-Jul-23
+5,Pakistan,"241,499,431",3.00%,01-Mar-23
+6,Nigeria,"223,800,000",2.80%,01-Jul-23
+7,Brazil,"203,080,756",2.50%,01-Aug-22
+8,Bangladesh,"169,828,911",2.10%,14-Jun-22
+9,Russia,"146,203,613",1.80%,01-Jan-24
+10,Mexico,"129,625,968",1.60%,31-Dec-23
+11,Japan,"123,990,000",1.50%,01-Feb-24
+12,Philippines,"112,892,781",1.40%,01-Jul-23
+13,Ethiopia,"107,334,000",1.30%,01-Jul-23
+14,Egypt,"104,462,545",1.30%,01-Jan-23
+15,Vietnam,"100,300,000",1.20%,Jul-23
+16,Democratic Republic of the Congo,"95,370,000",1.20%,01-Jul-19
+17,Turkey,"85,372,377",1.10%,31-Dec-23
+18,Germany,"84,607,016",1.00%,30-Sep-23
+19,Iran,"84,055,000",1.00%,20-Mar-22
+20,France,"68,381,000",0.80%,01-Feb-24
+21,Thailand,"68,263,022",0.80%,01-Jul-21
+22,United Kingdom,"67,596,281",0.80%,30-Jun-22
+23,South Africa,"62,027,503",0.80%,02-Feb-22
+24,Tanzania,"61,741,120",0.80%,23-Aug-22
+25,Italy,"58,909,449",0.70%,30-Nov-23
+26,Myanmar,"55,770,232",0.70%,01-Jul-22
+27,Colombia,"52,695,952",0.70%,01-Jan-24
+28,Kenya,"51,526,000",0.60%,01-Jan-23
+29,South Korea,"51,303,688",0.60%,29-Feb-24
+30,Spain,"48,592,909",0.60%,01-Jan-24
+31,Argentina,"46,654,581",0.60%,01-Jul-23
+32,Uganda,"45,562,000",0.60%,01-Jul-23
+33,Algeria,"45,400,000",0.60%,01-Jan-22
+34,Iraq,"43,324,000",0.50%,01-Jul-23
+35,Sudan,"41,984,500",0.50%,01-Jul-18
+36,Canada,"40,800,000",0.50%,05-Jan-24
+37,Poland,"37,635,000",0.50%,31-Dec-23
+38,Morocco,"37,022,000",0.50%,01-Jul-23
+39,Ukraine,"36,700,000",0.50%,01-Jul-23
+40,Uzbekistan,"36,599,764",0.50%,01-Oct-23
+41,Afghanistan,"34,262,840",0.40%,01-Jan-23
+42,Angola,"34,094,077",0.40%,01-Jun-23
+43,Peru,"33,396,698",0.40%,01-Jul-22
+44,Malaysia,"33,379,500",0.40%,30-Jun-23
+45,Mozambique,"32,419,747",0.40%,01-Jul-22
+46,Saudi Arabia,"32,175,224",0.40%,10-May-22
+47,Yemen,"31,888,698",0.40%,01-Jul-22
+48,Ghana,"30,832,019",0.40%,27-Jun-21
+49,Ivory Coast,"29,389,150",0.40%,14-Dec-21
+50,Nepal,"29,164,578",0.40%,25-Nov-21
+51,Venezuela,"28,302,000",0.30%,30-Jun-19
+52,Cameroon,"28,088,845",0.30%,01-Jul-23
+53,Madagascar,"26,923,353",0.30%,01-Jul-21
+54,Australia,"26,821,557",0.30%,30-Sep-23
+55,North Korea,"25,660,000",0.30%,01-Jul-21
+56,Niger,"25,369,415",0.30%,01-Jul-23
+57,Syria,"22,923,000",0.30%,01-Jul-21
+58,Burkina Faso,"22,752,315",0.30%,01-Jul-23
+59,Mali,"22,395,489",0.30%,15-Jun-22
+60,Sri Lanka,"22,037,000",0.30%,01-Jul-23
+61,Malawi,"21,507,723",0.30%,01-Jul-22
+62,Kazakhstan,"20,033,546",0.20%,01-Jan-24
+63,Chile,"19,960,889",0.20%,30-Jun-23
+64,Zambia,"19,610,769",0.20%,14-Sep-22
+65,Romania,"19,051,562",0.20%,01-Jan-23
+66,Senegal,"18,275,743",0.20%,01-Jul-23
+67,Somalia,"18,143,379",0.20%,01-Jul-23
+68,Netherlands,"17,947,684",0.20%,31-Dec-23
+69,Guatemala,"17,602,431",0.20%,01-Jul-23
+70,Chad,"17,414,717",0.20%,01-Jul-22
+71,Cambodia,"17,091,464",0.20%,01-Jul-23
+72,Ecuador,"16,938,986",0.20%,01-Oct-22
+73,Zimbabwe,"15,178,979",0.20%,20-Apr-22
+74,South Sudan,"14,746,494",0.20%,01-Jul-23
+75,Guinea,"13,261,638",0.20%,01-Jul-22
+76,Rwanda,"13,246,394",0.20%,15-Aug-22
+77,Burundi,"12,837,740",0.20%,01-Jul-22
+78,Benin,"12,606,998",0.20%,01-Jul-23
+79,Bolivia,"12,006,031",0.10%,01-Jul-22
+80,Tunisia,"11,850,232",0.10%,01-Jan-23
+81,Belgium,"11,810,018",0.10%,01-Dec-23
+82,Papua New Guinea,"11,781,559",0.10%,01-Jul-21
+83,Haiti,"11,743,017",0.10%,01-Jul-20
+84,Jordan,"11,302,000",0.10%,31-Dec-22
+85,Cuba,"11,089,511",0.10%,31-Dec-22
+86,Czech Republic,"10,882,235",0.10%,30-Sep-23
+87,Dominican Republic,"10,760,028",0.10%,10-Nov-22
+88,Sweden,"10,551,707",0.10%,31-Dec-23
+89,Portugal,"10,467,366",0.10%,31-Dec-22
+90,Greece,"10,413,982",0.10%,01-Jan-23
+91,Azerbaijan,"10,151,517",0.10%,01-Jul-23
+92,Tajikistan,"10,077,600",0.10%,01-Jan-23
+93,Israel,"9,867,000",0.10%,29 Feb 2023
+94,Honduras,"9,745,149",0.10%,01-Jul-23
+95,Hungary,"9,597,085",0.10%,01-Jan-23
+96,United Arab Emirates,"9,282,410",0.10%,31-Dec-20
+97,Belarus,"9,200,617",0.10%,01-Jan-23
+98,Austria,"9,159,993",0.10%,01-Jan-24
+99,Switzerland,"8,931,306",0.10%,30-Sep-23
+100,Sierra Leone,"8,494,260",0.10%,01-Jul-22
+101,Togo,"8,095,498",0.10%,08-Nov-22
+102,Laos,"7,443,000",0.09%,01-Jul-22
+103,Kyrgyzstan,"7,100,000",0.09%,01-Mar-23
+104,Turkmenistan,"7,057,841",0.09%,17-Dec-22
+105,Libya,"6,931,061",0.09%,01-Jan-20
+106,El Salvador,"6,884,888",0.09%,01-Jul-22
+107,Nicaragua,"6,733,763",0.08%,30-Jun-22
+108,Serbia,"6,641,197",0.08%,01-Jan-23
+109,Bulgaria,"6,447,710",0.08%,31-Dec-22
+110,Republic of the Congo,"6,142,180",0.08%,17-May-23
+111,Paraguay,"6,109,644",0.08%,10-Nov-22
+112,Denmark,"5,961,249",0.07%,01-Jan-24
+113,Singapore,"5,917,600",0.07%,30-Jun-23
+114,Central African Republic,"5,633,412",0.07%,01-Jul-20
+115,Finland,"5,574,011",0.07%,31-Dec-23
+116,Norway,"5,550,203",0.07%,31-Dec-23
+117,Lebanon,"5,490,000",0.07%,01-Jul-21
+118,Palestine,"5,483,450",0.07%,01-Jan-23
+119,Slovakia,"5,426,468",0.07%,30-Sep-23
+120,Ireland,"5,281,600",0.07%,01-Apr-23
+121,New Zealand,"5,305,600",0.07%,31-Dec-23
+122,Costa Rica,"5,262,225",0.06%,30-Jun-23
+123,Liberia,"5,248,621",0.06%,10-Nov-22
+124,Oman,"5,113,071",0.06%,31-Aug-23
+125,Kuwait,"4,670,713",0.06%,31-Dec-20
+126,Mauritania,"4,475,683",0.06%,01-Jul-23
+127,Panama,"4,064,780",0.05%,08-Jan-23
+128,Croatia,"3,855,641",0.05%,01-Jul-22
+129,Eritrea,"3,748,902",0.05%,01-Jul-23
+130,Georgia,"3,736,400",0.05%,01-Jan-23
+131,Mongolia,"3,457,548",0.04%,31-Dec-22
+132,Uruguay,"3,444,263",0.04%,27-Nov-23
+133,Bosnia and Herzegovina,"3,277,082",0.04%,01-Jul-22
+134,Armenia,"2,981,200",0.04%,01-Jan-23
+135,Lithuania,"2,886,515",0.04%,01-Jan-24
+136,Jamaica,"2,825,544",0.03%,01-Jul-19
+137,Albania,"2,761,785",0.03%,01-Jan-23
+138,Qatar,"2,656,032",0.03%,30-Jun-23
+139,Namibia,"2,641,857",0.03%,01-Jul-23
+140,Moldova,"2,512,758",0.03%,01-Jan-23
+141,Gambia,"2,417,471",0.03%,01-Jul-22
+142,Botswana,"2,410,338",0.03%,01-Jul-21
+143,Lesotho,"2,306,000",0.03%,01-Jul-23
+144,Gabon,"2,233,272",0.03%,01-Jul-21
+145,Slovenia,"2,123,103",0.03%,01-Oct-23
+146,Latvia,"1,872,500",0.02%,01-Jan-24
+147,North Macedonia,"1,832,696",0.02%,01-Nov-21
+148,Guinea-Bissau,"1,781,308",0.02%,01-Jul-23
+149,Bahrain,"1,577,059",0.02%,01-Jul-23
+150,Equatorial Guinea,"1,558,160",0.02%,01-Jul-22
+151,Trinidad and Tobago,"1,367,510",0.02%,30-Jun-23
+152,Estonia,"1,366,491",0.02%,01-Jan-24
+153,East Timor,"1,354,662",0.02%,01-Jul-23
+154,Mauritius,"1,261,041",0.02%,30-Jun-23
+155,Eswatini,"1,223,362",0.02%,01-Jul-23
+156,Djibouti,"1,001,454",0.01%,01-Jul-22
+157,Cyprus,"918,100",0.01%,01-Oct-21
+158,Fiji,"893,468",0.01%,01-Jul-21
+159,Bhutan,"770,276",0.01%,2023
+160,Comoros,"758,316",0.01%,15-Dec-17
+161,Guyana,"743,699",0.01%,01-Jul-19
+162,Solomon Islands,"734,887",0.01%,01-Jul-23
+163,Luxembourg,"660,809",0.01%,01-Jan-23
+164,Montenegro,"616,695",0.01%,01-Jan-23
+165,Suriname,"616,500",0.01%,01-Jul-21
+166,Malta,"519,562",0.01%,21-Nov-21
+167,Maldives,"515,132",0.01%,13-Sep-22
+168,Cape Verde,"491,233",0.01%,16-Jun-21
+169,Brunei,"445,400",0.01%,01-Jul-22
+170,Belize,"441,471",0.01%,01-Jul-22
+171,Bahamas,"397,360",0.01%,01-Jul-22
+172,Iceland,"396,960",0.01%,01-Oct-23
+173,Vanuatu,"301,295",0.00%,01-Jul-21
+174,Barbados,"267,800",0.00%,31-Dec-22
+175,São Tomé and Príncipe,"214,610",0.00%,01-Jul-21
+176,Samoa,"205,557",0.00%,06-Nov-21
+177,Saint Lucia,"178,696",0.00%,01-Jul-18
+178,Kiribati,"120,740",0.00%,01-Jul-21
+179,Grenada,"112,579",0.00%,01-Jul-19
+180,Saint Vincent and the Grenadines,"110,872",0.00%,01-Jul-22
+181,Micronesia,"105,754",0.00%,01-Jul-21
+182,Antigua and Barbuda,"100,772",0.00%,01-Jan-22
+183,Seychelles,"100,447",0.00%,22-Apr-22
+184,Tonga,"100,179",0.00%,01-Jan-22
+185,Andorra,"85,101",0.00%,31-Dec-23
+186,Dominica,"67,408",0.00%,31-Dec-17
+187,Saint Kitts and Nevis,"47,195",0.00%,15-May-11
+188,Marshall Islands,"42,418",0.00%,30-Sep-21
+189,Liechtenstein,"39,724",0.00%,30-Jun-23
+190,Monaco,"39,050",0.00%,31-Dec-22
+191,San Marino,"33,889",0.00%,31-Oct-23
+192,Palau,"16,733",0.00%,01-Jul-21
+193,Nauru,"11,680",0.00%,30-Oct-21
+194,Tuvalu,"10,679",0.00%,01-Jul-21
+195,Vatican City,764,0%,26-Jun-23
+–,Taiwan,"23,420,442",0.30%,31-Dec-23
+–,Hong Kong(China),"7,498,100",0.09%,30-Jun-23
+–,Puerto Rico(US),"3,205,691",0.04%,01-Jul-23
+–,Kosovo,"1,762,220",0.02%,31-Dec-22
+–,Macau(China),"681,300",0.01%,30-Sep-23
+–,[disputed–discuss]Western Sahara,"587,259",0.01%,01-Jul-23
+–,Northern Cyprus,"382,836",0.01%,31-Dec-20
+–,Transnistria,"360,938",0.00%,31-Dec-22
+–,French Polynesia(France),"279,890",0.00%,01-Jul-21
+–,New Caledonia(France),"268,510",0.00%,01-Jan-23
+–,Abkhazia,"244,236",0.00%,01-Jan-22
+–,Guam(US),"153,836",0.00%,01-Apr-20
+–,Curacao(Netherlands),"148,925",0.00%,01-Jan-23
+–,Aruba(Netherlands),"106,739",0.00%,30-Sep-22
+–,Jersey(UK),"103,267",0.00%,21-Mar-21
+–,U.S. Virgin Islands(US),"87,146",0.00%,01-Apr-20
+–,Isle of Man(UK),"84,069",0.00%,30-May-21
+–,Cayman Islands(UK),"71,105",0.00%,30-Sep-20
+–,Guernsey(UK),"64,091",0.00%,31-Mar-23
+–,Bermuda(UK),"64,055",0.00%,01-Jul-21
+–,Greenland(Denmark),"56,865",0.00%,01-Jul-23
+–,South Ossetia,"56,520",0.00%,31-Dec-21
+–,Faroe Islands(Denmark),"54,547",0.00%,01-Dec-23
+–,American Samoa(US),"49,710",0.00%,01-Apr-20
+–,Northern Mariana Islands(US),"47,329",0.00%,01-Apr-20
+–,Turks and Caicos Islands(UK),"46,131",0.00%,01-Jul-21
+–,Sint Maarten(Netherlands),"42,938",0.00%,01-Jan-23
+–,Gibraltar(UK),"34,003",0.00%,01-Jul-16
+–,Saint Martin(France),"32,358",0.00%,01-Jan-20
+–,British Virgin Islands(UK),"31,538",0.00%,01-Jul-23
+–,Åland(Finland),"30,547",0.00%,31-Dec-23
+–,Anguilla(UK),"15,701",0.00%,31-Dec-21
+–,Cook Islands,"15,040",0.00%,01-Jul-21
+–,Wallis and Futuna(France),"11,369",0.00%,01-Jan-21
+–,Saint Barthélemy(France),"10,585",0.00%,01-Jan-20
+–,Saint Pierre and Miquelon(France),"6,092",0%,01-Jan-20
+–,"Saint Helena, Ascension and Tristan da Cunha(UK)","5,651",0%,01-Jul-21
+–,Montserrat(UK),"4,433",0%,01-Jul-22
+–,Falkland Islands(UK),"3,662",0%,10-Oct-21
+–,Norfolk Island(Australia),"2,188",0%,01-Jan-21
+–,Christmas Island(Australia),"1,692",0%,01-Jan-21
+–,Niue,"1,689",0%,11-Nov-22
+–,Tokelau(NZ),"1,647",0%,01-Jan-19
+–,Cocos (Keeling) Islands(Australia),593,0%,30-Jun-20
+–,Pitcairn Islands(UK),47,0%,01-Jul-21

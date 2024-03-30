@@ -1,0 +1,39 @@
+log_file_1.csv: 
+MessageID	Source	Message
+8542	DataSyncService	User login successful.
+2659	DataSyncService	Payment processing failed.
+7891	InventoryService	Low stock for item ID 12345.
+6756	InventoryService	Sync completed for data source XYZ.
+9948	DataSyncService	User login successful.
+5753	DataSyncService	Payment processing failed.
+2396	PaymentService	Payment processing failed.
+3510	PaymentService	Low stock for item ID 12345.
+8777	PaymentService	Payment processing failed.
+1221	AuthService	User login successful.
+--------------------------------------------------------------------
+log_file_2.csv: 
+MessageID	Source	Message
+4459	DataSyncService	Low stock for item ID 12345.
+4719	PaymentService	Sync completed for data source XYZ.
+1225	AuthService	User login successful.
+2983	InventoryService	Sync completed for data source XYZ.
+6285	AuthService	Payment processing failed.
+5563	AuthService	Low stock for item ID 12345.
+8320	PaymentService	Sync completed for data source XYZ.
+2893	InventoryService	Sync completed for data source XYZ.
+5804	DataSyncService	User login successful.
+2887	AuthService	Low stock for item ID 12345.
+--------------------------------------------------------------------
+log_file_3.csv: 
+MessageID	Source	Message
+8279	DataSyncService	Payment processing failed.
+2613	InventoryService	Sync completed for data source XYZ.
+8360	PaymentService	User login successful.
+5615	AuthService	Sync completed for data source XYZ.
+4983	PaymentService	User login successful.
+8095	InventoryService	Sync completed for data source XYZ.
+9262	InventoryService	Low stock for item ID 12345.
+1824	AuthService	Payment processing failed.
+3475	DataSyncService	User login successful.
+1953	InventoryService	Sync completed for data source XYZ.
+--------------------------------------------------------------------

@@ -1,0 +1,11 @@
+Timestamp,LogLevel,Source,MessageID,Message
+2024-03-30T14:17:00Z,DEBUG,DataSyncService,4459,Low stock for item ID 12345.
+2024-03-30T14:17:00Z,DEBUG,PaymentService,4719,Sync completed for data source XYZ.
+2024-03-30T14:17:00Z,WARN,AuthService,1225,User login successful.
+2024-03-30T14:17:00Z,ERROR,InventoryService,2983,Sync completed for data source XYZ.
+2024-03-30T14:17:00Z,WARN,AuthService,6285,Payment processing failed.
+2024-03-30T14:17:00Z,INFO,AuthService,5563,Low stock for item ID 12345.
+2024-03-30T14:17:00Z,WARN,PaymentService,8320,Sync completed for data source XYZ.
+2024-03-30T14:17:00Z,DEBUG,InventoryService,2893,Sync completed for data source XYZ.
+2024-03-30T14:17:00Z,INFO,DataSyncService,5804,User login successful.
+2024-03-30T14:17:00Z,INFO,AuthService,2887,Low stock for item ID 12345.
